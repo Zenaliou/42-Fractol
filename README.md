@@ -15,7 +15,6 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/score-125%20%2F%20100-success?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/dpetrosy/42-Fractol?style=for-the-badge" />
   </p>
 
   <h3>
