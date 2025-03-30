@@ -100,10 +100,5 @@ $ cd fract-ol42 && make
 
 Run the executable too see the help message:
 ```shell
-./fractol
-```
-
-Or run with some supported fractal:
-```shell
-./fractol mandelbrot
+./fractol <fractal_name>
 ```
