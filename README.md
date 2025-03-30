@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- Logo -->
-  <a href="https://github.com/dpetrosy/42-Fractol">
   <img src="README_files/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,7 +10,6 @@
   <!-- Short Description -->
   <p align="center">
 	  <b>42 niclee Fractol</b><br>
-	  For further information about 42cursus and its projects, please refer to <a href="https://github.com/dpetrosy/42cursus"><b>42cursus repo</b></a>.
   </p>
 
   <!-- Badges -->
