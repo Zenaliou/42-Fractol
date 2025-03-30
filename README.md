@@ -26,8 +26,6 @@
 	  <a href="#-controls">🎮 Controls</a>
     <span> · </span>
       <a href="#-usage">👨‍💻 Usage</a>
-    <span> · </span>
-      <a href="#-screenshots">🌄 Screenshots</a>
   </h3>
 </div>
 
