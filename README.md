@@ -77,7 +77,7 @@ The program is written in C language and thus needs the **gcc compiler** and som
 **1. Cloning the folder**
 
 ```shell
-[git clone https://github.com/Zenaliou/Fract-ol42.git](https://github.com/Zenaliou/42-Fractol.git)
+https://github.com/Zenaliou/42-Fractol.git
 ```
 
 **1. Compiling the program**
@@ -85,7 +85,7 @@ The program is written in C language and thus needs the **gcc compiler** and som
 To compile the program, run:
 
 ```shell
-$ cd 42-Fractol && make
+cd 42-Fractol && make
 ```
 
 **2. How to run the program**
