@@ -77,7 +77,7 @@ The program is written in C language and thus needs the **gcc compiler** and som
 **1. Cloning the folder**
 
 ```shell
-https://github.com/Zenaliou/42-Fractol.git
+git clone https://github.com/Zenaliou/42-Fractol.git
 ```
 
 **1. Compiling the program**
